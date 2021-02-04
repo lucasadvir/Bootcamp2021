@@ -1,0 +1,74 @@
+.tipo-name {
+    color: #0d3d76;
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 40px;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 7cm;
+    margin-left: 5cm;
+}
+.tipo-cargo{
+    color: #0d3d76;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    font-style:oblique;
+    margin-top: 0cm;
+    margin-left: 5cm;
+}
+.tipo-icon{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-weight:600;
+    font-style: italic;
+    margin-top:0cm;
+    margin-right:0cm;
+    border-radius: 15px;
+}
+.tipo-icon{
+    margin-left:600px;
+    margin-top: -150px;
+    padding: 15px;
+    background-color: #3b5155;
+    box-shadow: 7px 10px 30px #3b5155;
+}
+img.middle{
+    vertical-align:middle;
+}
+.aside{
+    width: 40%;
+    float: right;
+}
+ul{
+    list-style-type: none;
+    margin-top:0;
+    margin-left:0px;
+    padding:0;
+    overflow: hidden;
+    background-color: #8eacb4;
+    position:fixed;
+    top:0;
+    width:100%;
+    box-shadow: 0px 5px 30px #8eacb4;
+}
+li{
+   float: left;
+}
+li a{
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+li a:hover{
+   background-color:#8fdbf5;
+
+}
+.active{
+   background-color:#8fdbf5;
+}
+.perfil{
+   margin-botton:0px;
+}

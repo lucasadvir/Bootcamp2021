@@ -1,2 +1,2 @@
 # Bootcamp2021
-Trata-se dos meus primeiros projetos em HTML e CSS
+Trata-se dos meus primeiros passos em HTML e CSS

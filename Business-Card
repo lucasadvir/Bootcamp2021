@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Card</title>
+    <link rel="stylesheet" href="Business-Card.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yusei+Magic&display=swap" rel="stylesheet"> 
+    
+    <!--
+    <style>
+    div {
+        background-image: url('BlueWave.jpeg');
+        }
+    https://colorswall.com/palette/99756
+    color: #0E76A8
+    </style>
+-->
+
+</head>
+
+<!--como configurar as dimensões das imagens, sem ter que repetir código?
+Ao que parece classes não funcionam para img, isso procede?-->
+
+<body>
+<ul>
+     <li><a class= "active" href="file:///home/aluno/Downloads/Bootcamp%20Christopher/Business-Card.html">Home</a></li>
+     <li><a href="file:///home/aluno/Downloads/Bootcamp%20Christopher/cv.html">Curriculum</a></li>
+     <li><a href="file:///home/aluno/Downloads/Bootcamp%20Christopher/Business-Card.html">Contato</a></li> 
+</ul>
+    <!--<div class= "perfil"> <img src="lucasfacilita.jpeg" alt="foto de lucas" style= "border-radius: 50%"></div>-->
+    <div class="tipo-name">Lucas Pontes</div>
+    <div class="tipo-cargo">Implantação Técnica - App Facilita</div>
+
+<aside>
+    <div class="tipo-icon">
+        <p><img class = "middle" src="phone-icon.png" alt="número-do-telefone" style="float:rigleft;width:42px;height:42px;">
+	 (62) 995317550</p>
+
+        <p><img class = "middle" src="email-icon.png" alt="email" style="float:rigleft;width:42px;height:42px;">
+        lucas.pontes@appfacilita.com</p>
+        <p><img class = "middle" src="location-icon.png" alt="localização" style="float:rigleft;width:43px;height:42px;">
+        Ed. London Office - Cidade Empresarial</p>
+    </div>
+</aside>
+</body>
+</html>
